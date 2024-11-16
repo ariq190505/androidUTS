@@ -9,10 +9,11 @@
 
 Aplikasi Tajwid adalah sebuah perangkat lunak atau platform digital yang dirancang untuk membantu pengguna dalam mempelajari, memahami, dan menerapkan ilmu tajwid. Tajwid adalah ilmu yang mengatur cara membaca Al-Qur'an dengan benar sesuai dengan makhraj (tempat keluarnya huruf) dan sifat huruf, sehingga bacaan menjadi sesuai dengan aturan yang telah ditetapkan.
 * ### Splash Screen
-![alt text](gambar/splashpage.png)
+![splashpage](https://github.com/user-attachments/assets/a42a7043-5d8e-401d-bf21-3f6394ebde31)
+
 (akan segera di update secara berkala)
 * ### Home
-![alt text](gambar/homepage.png)
+
 (akan segera di update secara berkala)
 # Storyboard
-![alt text](gambar/story.png)
+
